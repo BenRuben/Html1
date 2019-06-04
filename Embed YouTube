@@ -1,0 +1,12 @@
+      HTML
+<embed src="youtubelink" id="video">
+      CSS
+#video {
+    width: ;
+    height: ;
+}
+
+
+----- OR --------
+
+<embed src="youtubelink" style="width: ; height: ;">
